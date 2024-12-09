@@ -1,0 +1,12 @@
+.card{
+    width: 20vw;
+    border: 2px solid black;
+    margin: 35px;
+    height: 300px;
+    overflow: hidden;
+}
+img{
+    width:100% ;
+    overflow: hidden;
+    border: 2px solid black;
+}
